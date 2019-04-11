@@ -38,7 +38,6 @@
   
   <!--Colocar icono app -->
   
-  <icon src="res/android/dia-madre-tierra.png">
+  <icon src="res/android/mdpi.png" />
   
   </widgwt>
-  
